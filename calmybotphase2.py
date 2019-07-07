@@ -1,3 +1,8 @@
+############################################################
+# NOTICE: ONLY WORKS FOR discord.py VERSION 0.16.12 OR LOWER 
+#############################################################
+
+
 import random
 import requests
 import discord
