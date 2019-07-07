@@ -13,7 +13,7 @@ from discord.ext import commands
 #######################################################################################################################
 # all variables are located here
 BOT_PREFIX = "-"
-TOKEN = "NTU0NzEwNjEzMDA4NTgwNjA5.D2gmtw.RUEOCJguVhDZYmYZcpO3CEFJvYI"
+TOKEN = "GET-YOUR-OWN-TOKEN"
 client = commands.Bot(command_prefix=BOT_PREFIX)
 client.remove_command('help')
 
