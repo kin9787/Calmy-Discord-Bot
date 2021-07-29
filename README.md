@@ -46,7 +46,7 @@ UPDATES: After the update of v1.0.0, there will now be two version of Calmy whic
 <!-- Built With -->
 ### Built With
 
-The web application is build in a 3-tier architecture, [React](https://reactjs.org/) as Front-end , [NodeJS](https://nodejs.org/en/) as Middleware and [XAMPP](https://www.apachefriends.org/index.html) as backend database.
+The bot is build in IDE and a API will be link to Discord in order to deploy the bot in Discord.
 * [Python](https://www.python.org/)
 * [Discord.py](https://discordpy.readthedocs.io/en/stable/)
 
@@ -92,7 +92,7 @@ _For more examples, please refer to the author by contact him_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/kin9787/Calmy-Discord-Bot/issues) for a list of proposed features (and known issues).
    
 <!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->   
 
