@@ -175,7 +175,7 @@ Project Link: [https://github.com/kin9787/Calmy-Discord-Bot](https://github.com/
 [issues-shield]: https://img.shields.io/github/issues/kin9787/kin9787.svg?style=for-the-badge
 [issues-url]: https://github.com/kin9787/Calmy-Discord-Bot/issues
 [license-shield]: https://img.shields.io/github/license/kin9787/kin9787.svg?style=for-the-badge
-[license-url]: https://github.com/kin9787/Calmy-Discord-Bot/blob/main/LICENSE.txt
+[license-url]: https://github.com/kin9787/Calmy-Discord-Bot/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chen-chee-kin-2b6664157/
 <!-- [product-screenshot]: images/CalmyExample.JPG -->
