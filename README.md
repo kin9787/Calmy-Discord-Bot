@@ -18,6 +18,31 @@ A discord bot with various function. Still under development.
 
 > :warning: UPDATES: After the update of v1.0.0 in discord.py, there will now be two version of Calmy which the initial bot will be using 0.16.12 and the latest version for the new Calmy (3.0).
 
+
+<!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+  
+  <h3 align="center">Calmy Discord Bot</h3>
+
+  <p align="center">
+    A chatbot with various functions!
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
+</p>
+
+<!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
