@@ -146,6 +146,5 @@ Project Link: [https://github.com/kin9787/Calmy-Discord-Bot](https://github.com/
 [license-url]: https://github.com/kin9787/Calmy-Discord-Bot/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chen-chee-kin-2b6664157/
-[product-screenshot]: images/screenshot.png
-
+[product-screenshot]: images/CalmyExample.JPG
 <!--FORK REQUEST-->
