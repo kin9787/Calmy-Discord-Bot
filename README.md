@@ -24,8 +24,8 @@ A discord bot with various function. Still under development.
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/kin9787/Calmy-Discord-Bot">
+    <img src="images/GitHubLogo.JPG" alt="Logo" width="150" height="200">
   </a>
   
   <h3 align="center">Calmy Discord Bot</h3>
@@ -72,8 +72,13 @@ A discord bot with various function. Still under development.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<p align="center">
+  <a href="https://github.com/kin9787/Calmy-Discord-Bot">
+    <img src="images/CalmyExample.JPG" alt="Logo" width="650" height="450" >
+</p>
+ 
 
-[![Product Screen Shot][product-screenshot]](https://github.com/kin9787/Calmy-Discord-Bot/blob/master/images/CalmyExample.JPG)
+<!-- [![Product Screen Shot][product-screenshot]](https://github.com/kin9787/Calmy-Discord-Bot/blob/master/images/CalmyExample.JPG) -->
 
 Calmy is a Discord chatbot that can react based on what you type in the chat. Given that he is allow in the server and given the requried rights. Additionally features which is added just for fun such as checking the temperature and 8 Ball is added. This is a free time project in which I am exploring the Discord Bot API, there are many ways to use the library, this is just one of the many ideas that you can make.
 
@@ -87,9 +92,9 @@ Calmy is a Discord chatbot that can react based on what you type in the chat. Gi
 
 Some useful reference and resoucrs that I find helpful are listed in the acknowledgements.
 
-
 <!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
-<!-- Built With -->
+
+ <!-- Built With -->
 ### Built With
 
 The bot is build in IDE and a API will be link to Discord in order to deploy the bot in Discord.
