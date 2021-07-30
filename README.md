@@ -39,6 +39,7 @@ A discord bot with various function. Still under development.
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -47,15 +48,17 @@ A discord bot with various function. Still under development.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://google.com)
+[![Product Screen Shot][product-screenshot]](https://github.com/kin9787/Calmy-Discord-Bot/blob/master/images/CalmyExample.JPG)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Calmy is a Discord chatbot that can react based on what you type in the chat. Given that he is allow in the server and given the requried rights. Additionally features which is added just for fun such as checking the temperature and 8 Ball is added. This is a free time project in which I am exploring the Discord Bot API, there are many ways to use the library, this is just one of the many ideas that you can make.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+⚠️ Notes: This is still in developing phase so encountering bugs is still posible and the development stopped in 2019 due to schoolar work.
 
+- [x] 8 Ball
+- [x] Temperature
+- [x] Ban User
+- [x] Simple Reply
+- [x] Delete Chat History
 
 Some useful reference and resoucrs that I find helpful are listed in the acknowledgements.
 
@@ -103,7 +106,7 @@ Since there are two version of the bot, it is recommend to use the latest which 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This repo acts as a reference to those who want to build a simple 3-tier web application using ReactJS, NodeJS and XAMPP. A machine leanring model is also added to this project which can be use to predict house price.
+This repo acts as a reference to those who want to build a simple discord bot using Python. 
 
 _For more examples, please refer to the author by contact him_
 
@@ -147,4 +150,12 @@ Project Link: [https://github.com/kin9787/Calmy-Discord-Bot](https://github.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chen-chee-kin-2b6664157/
 [product-screenshot]: images/CalmyExample.JPG
-<!--FORK REQUEST-->
+
+<!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+📓 If you cannot access/asked to login before reading further, access the link using incognito mode.
+* [(TowardsDataScience)House Prices Prediction Using Deep Learning](https://towardsdatascience.com/house-prices-prediction-using-deep-learning-dea265cc3154)
+* [(TowardsDataScience)Create a model to predict house prices using Python](https://towardsdatascience.com/create-a-model-to-predict-house-prices-using-python-d34fe8fad88f)
+* [(GitHub)React Website UI](https://github.com/briancodex/react-website-v1)
