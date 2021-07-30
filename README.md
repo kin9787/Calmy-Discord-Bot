@@ -14,9 +14,9 @@ A discord bot with various function. Still under development.
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-!!WARNING FOR ALL: REMEMBER TO HIDE YOUR TOKEN OR SIMPLY REMOVE IT TO PREVENT ANY UNAUTHORIZED USER FROM USING YOUR BOT.
+> :warning: **REMEMBER TO HIDE YOUR TOKEN OR SIMPLY REMOVE IT TO PREVENT ANY UNAUTHORIZED USER FROM USING YOUR BOT.**
 
-UPDATES: After the update of v1.0.0, there will now be two version of Calmy which the initial bot will be using 0.16.12 and the latest version for the new Calmy (3.0).
+> :warning: UPDATES: After the update of v1.0.0 in discord.py, there will now be two version of Calmy which the initial bot will be using 0.16.12 and the latest version for the new Calmy (3.0).
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -68,6 +68,8 @@ The list below are the frameworks that you need to run the system.
 <!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
 
 ### Installation
+
+Since there are two version of the bot, it is recommend to use the latest which is the Rewrite Version.
 
 1. Clone the repo
    ```sh
