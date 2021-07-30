@@ -14,7 +14,7 @@ A discord bot with various function. Still under development.
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-WARNING FOR ALL: REMEMBER TO HIDE YOUR TOKEN OR SIMPLY REMOVE IT TO PREVENT ANY UNAUTHORIZED USER FROM USING YOUR BOT.
+!!WARNING FOR ALL: REMEMBER TO HIDE YOUR TOKEN OR SIMPLY REMOVE IT TO PREVENT ANY UNAUTHORIZED USER FROM USING YOUR BOT.
 
 UPDATES: After the update of v1.0.0, there will now be two version of Calmy which the initial bot will be using 0.16.12 and the latest version for the new Calmy (3.0).
 
